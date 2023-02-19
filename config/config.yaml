@@ -1,0 +1,5 @@
+telegram:
+  token: "<token>"
+  updateTimeout: 60
+  debug: false
+
